@@ -1,1 +1,3 @@
-# Gradient_Boosting_for_Data_Scientist_Salaries
+# Gradient Boosting for Data Scientist Salaries
+
+Данный проект посвящен предсказанию заработной платы Data Science специалистов с использованием моделей градиентного бустинга: XGBoost, LightGBM и CatBoost. В качестве бейзлайна выступает линейная регрессия. В работе представлено сравнение моделей и анализ итоговых метрик.
